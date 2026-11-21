@@ -1,0 +1,7 @@
+,DataType,MissingCount,MissingPercentage,UniqueValues
+CustomerID,str,0,0.0,2
+Age,int64,0,0.0,2
+Income,int64,0,0.0,2
+Experience,int64,0,0.0,2
+PurchaseAmount,int64,0,0.0,2
+Purchased,int64,0,0.0,2
